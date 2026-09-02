@@ -6,6 +6,9 @@ Video link -> [ https://drive.google.com/file/d/1Q8oteBneBo5xWWEZJKK921eXOOFTwz5
 
 # Instant_Mechanic-Booking-App
 Instant_Mechanic Booking App 
+
+![image alt](https://github.com/ArjunCodewave/Instant_Mechanic-Booking-App/blob/b43d6c156909dd2ea28e6f8dc1d7f95f17b6d881/poster_instant_mechinique.png)
+
 # 🔧 Instant Mechanic Booking App
 
 Instant Mechanic is an iOS application that allows users to discover and book mechanic services. The application fetches mechanic information from a REST API built using FastAPI and displays the data in a SwiftUI interface.
